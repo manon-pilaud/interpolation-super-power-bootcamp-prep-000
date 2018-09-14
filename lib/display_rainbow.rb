@@ -1,1 +1,3 @@
-# Write your #display_rainbow method here
+# Write your #display_rainbow method her 
+def display_rainbow (colors)
+  colors = 
